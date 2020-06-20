@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./assets/icon_example.png" height="150" width="150" alt="Unform" />
+	<img src="./assets/icon_example.png" height="150" width="150" alt="icon example" />
 </p>	
 
 <h3 align="center">
@@ -24,8 +24,8 @@
 </p>
 
 <p align="center">
-	<img src="./assets/mockup_example.png" alt="project example" />
-	<a href="https://some-demo.com" target="_blank">Online Demo</a>
+	<img src="./assets/mockup_example.png" alt="mockup example" />
+	<a href="https://some-demo.com">Online Demo</a>
 </p>
 
 ## 📌 Overview
