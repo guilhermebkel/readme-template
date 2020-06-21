@@ -3,7 +3,7 @@
 </p>	
 
 <h3 align="center">
-  A title... 📨
+  Some title about the application... 📨
 </h3>
 
 <p align="center">
@@ -24,13 +24,13 @@
 </p>
 
 <p align="center">
-	<img src="./assets/mockup_example.png" alt="mockup example" />
+	<img style="box-shadow: 5px 0 20px black" src="./assets/app_example.gif" alt="gif example" />
 	<a href="https://some-demo.com">Online Demo</a>
 </p>
 
 ## 📌 Overview
 
-A description...
+Some description the application...
 
 ## 🔧 Technologies
 
