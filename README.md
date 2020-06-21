@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-	<img style="box-shadow: 5px 0 20px black" src="./assets/app_example.gif" alt="gif example" />
+	<img src="./assets/app_example.gif" alt="gif example" />
 	<a href="https://some-demo.com">Online Demo</a>
 </p>
 
