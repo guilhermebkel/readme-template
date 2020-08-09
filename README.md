@@ -44,7 +44,6 @@ Some description the application...
 
 ## 👏 Contributing
 
-1. Clone this repository to your machine
-2. Create a new branch locally following the **Git Karma** pattern.
-- Ex: feat/my-awesome-feature
+1. Clone this repository to your machine.
+2. Create a new branch locally following the **Git Karma** pattern. Ex: feat/my-awesome-feature.
 3. Then, after coding your contribution, make a merge request for your branch.
